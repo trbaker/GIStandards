@@ -1,4 +1,4 @@
-# GIS
+# GIStandards
 A machine analysis of geospatial language in US K-12 state standards
 
 Phase 1:
@@ -11,7 +11,7 @@ Log over time to understand spatial, temporal patterns.
 Public HTML files by state for report out.
 Publish meta report.
 
-Project URL: http://trbaker.github.io/GIS
+Project URL: http://trbaker.github.io/GIStandards
 
 
 x
