@@ -12,6 +12,3 @@ Public HTML files by state for report out.
 Publish meta report.
 
 Project URL: http://trbaker.github.io/GIStandards
-
-
-x
