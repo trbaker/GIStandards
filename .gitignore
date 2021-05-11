@@ -5,6 +5,12 @@ secrets.py
 .idea
 src
 src/
+samples/
+samples
+examples/
+examples
+standards
+standards/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
