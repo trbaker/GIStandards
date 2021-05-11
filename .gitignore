@@ -3,6 +3,8 @@ secrets/
 secrets.py
 .DS_Store
 .idea
+src
+src/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
