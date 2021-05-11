@@ -3,6 +3,7 @@ secrets/
 secrets.py
 .DS_Store
 .idea
+.idea/
 src
 src/
 samples/
