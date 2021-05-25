@@ -1,5 +1,6 @@
 # GIStandards
 A machine analysis of geospatial language in US K-12 state standards
+Project URL: http://trbaker.github.io/GIStandards
 
 Updates:
 <ul>
@@ -24,8 +25,6 @@ Phase 1:
 <li>Log over time to understand spatial, temporal patterns.
   <LI>Account for concept blocks - places where keywords are used multiple times to address a single concept/standard.
 </ul>
-  
-Project URL: http://trbaker.github.io/GIStandards
 
 ## This repo only contains the HTML output.  This output is dated and is overwritten/updated on a regular basis.  I recommend 'starring' the repo - rather than cloning it.
 
