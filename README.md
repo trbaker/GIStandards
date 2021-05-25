@@ -7,7 +7,6 @@ Updates:
  <li>Last updated: May 25, 2021
  <LI>Databases and Python engine are ready
  <li>A state-by-state collection of standards is being built. Retreiving on-the-fly proved too problematic.   
-   
  </ul>
  
 Phase 1:
