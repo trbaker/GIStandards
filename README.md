@@ -1,6 +1,6 @@
-# GIStandards
-A machine analysis of geospatial language in US K-12 state standards
-Project URL: http://trbaker.github.io/GIStandards
+## GIStandards
+# A machine analysis of geospatial language in US K-12 state standards
+# Project URL: http://trbaker.github.io/GIStandards
 
 Updates:
 <ul>
