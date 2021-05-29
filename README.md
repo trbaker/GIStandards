@@ -36,13 +36,11 @@ Updates:
 - Log total number of words.
 - Log standard with structured id tag, by state, standard, and date.
 - Public HTML files by state for report out.
-- Publish meta report.
+- Publish overview report.
 
 
 Phase 2:
 - Log over time to understand spatial, temporal patterns.
 - Account for concept blocks - places where keywords are used multiple times to address a single concept/standard.
 
-
-## This repo only contains the HTML output.  This output is dated and is overwritten/updated on a regular basis.  I recommend 'starring' the repo - rather than cloning it.
 
