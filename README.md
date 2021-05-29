@@ -20,7 +20,7 @@ As of May 27, 2021, standards are being collected and the analysis script is bei
 
 #### Appendices
 
-<hr>
+----------------------
 #### Timelines and milesontes
 
 Project Updates:
