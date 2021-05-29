@@ -21,7 +21,7 @@ As of May 27, 2021, standards are being collected and the analysis script is bei
 #### Appendices
 
 <hr>
-#### Project timelines and updates:
+#### Timelines and milesontes
 
 Project Updates:
 - Databases and Python engine are ready
@@ -35,7 +35,6 @@ Project Updates:
 - Log standard with structured id tag, by state, standard, and date.
 - Public HTML files by state for report out.
 - Publish overview report.
-
 
 Phase 2:
 - Log over time to understand spatial, temporal patterns.
