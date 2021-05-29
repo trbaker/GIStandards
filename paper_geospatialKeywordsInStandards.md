@@ -1,4 +1,4 @@
-# Keyword searching in large, variously formatted document sets
+# Appendix I: Strategies in keyword searching in standards documents
 
 In reality, words do not carry equal significance – demonstrated by position of the word (e.g. word in an assessed standard vs in a supporting example). 
 
@@ -9,7 +9,7 @@ Word counts look for runs of letters, separated by a space. This generally works
 Documents archived included:
 - Core, Content, or Performance Standards
 - Frameworks
-- Course of study (when neither standards or frameworks were found)
+- Course or programs of study (when neither standards or frameworks were found)
 
 Documents not included:
 - Progressions
@@ -17,3 +17,5 @@ Documents not included:
 - “placemat” standards (unless no other standards documents were found)
 
 Not all state standards are equally impactful – whether there is variable compliance by educators, or simply a state with a small population.  Are West Virginia’s standards as impactful as California’s?
+
+CTE 'standardss' should probably not be compared to the four core acaemic standards.  The majority of documents used in CTE are course or program of study descriptions, while the core academic disciplines use content standards.  By and large, social studies standards vary more greatly (in content and form) from state to state than the other three academic areas.  
