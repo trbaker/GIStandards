@@ -8,7 +8,7 @@
 #### Abstract
 This paper and website contain the results of a machine analysis.  All state core standards (English, math, science, and social studies) and CTEprogram descriptions were collected (here).  A custom python-based program read each standard in search of a keyword list.  Counts were summed and normalized based on total words in the collection of docuemens for that state and subject area.
 
-#### Project Status and Feedback
+#### Project status and feedback
 As of May 27, 2021, standards are being collected and the analysis script is being finalized.  A phase 1 release is targeted for early June 2021. If you find errors or have concerns about any part of this work, please email: trbaker@gmail.com
 
 #### Chapters
