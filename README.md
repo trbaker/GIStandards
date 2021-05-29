@@ -28,7 +28,7 @@ Project Updates:
 - A state-by-state collection of standards is being built. Retreiving on-the-fly proved too problematic.   
 
  Phase 1:
-- <a target="new" href="https://www.dropbox.com/sh/deaf3jrb48a6amf/AAA56gcQ_P1D6msnaNR5PeY9a?dl=0">Gather standards documents</a>
+- Gather standards documents
 - Use Python to read each of five core U.S. K-12 state curriculum standards documents.
 - Log number of occurences from keyword list. 
 - Log total number of words.
