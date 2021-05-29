@@ -3,7 +3,7 @@
 #### Project URL: http://trbaker.github.io/GIStandards
 
 #### Academic citation:
-Baker,T.R. (2021). Geospatial keywords in 2021 US K12 curriculum standards. Online: http://trbaker.github.io/GIStandards 
+Baker,T.R. (2021). *Geospatial keywords in 2021 US K12 curriculum standards*. http://trbaker.github.io/GIStandards 
 
 #### Abstract
 This paper and website contain the results of a machine analysis.  All state core standards (English, math, science, and social studies) and CTEprogram descriptions were collected (here).  A custom python-based program read each standard in search of a keyword list.  Counts were summed and normalized based on total words in the collection of docuemens for that state and subject area.
@@ -18,18 +18,16 @@ As of May 27, 2021, standards are being collected and the analysis script is bei
 - Arkansas
 - ....
 
+#### Appendices
 
 <hr>
 #### Project timelines and updates:
 
-Updates:
-
-- Last updated: May 25, 2021
+Project Updates:
 - Databases and Python engine are ready
 - A state-by-state collection of standards is being built. Retreiving on-the-fly proved too problematic.   
 
  Phase 1:
-
 - <a target="new" href="https://www.dropbox.com/sh/deaf3jrb48a6amf/AAA56gcQ_P1D6msnaNR5PeY9a?dl=0">Gather standards documents</a>
 - Use Python to read each of five core U.S. K-12 state curriculum standards documents.
 - Log number of occurences from keyword list. 
