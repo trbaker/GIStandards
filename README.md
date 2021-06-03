@@ -14,8 +14,8 @@ As of May 27, 2021, standards are being collected and the analysis script is bei
 #### Chapters
 - Overview and findings
 - [Alabama](AL.md)
-- Arizona
-- Arkansas
+- [Arizona](AZ.md)
+- [Arkansas] (AR.md)
 - ....
 
 #### Appendices
