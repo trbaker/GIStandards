@@ -1,1 +1,1 @@
-# CT<br>Report date: 2021-06-03 13:12:02.267355<br> ----- <br>
+# CT Report date: 2021-06-03<br> ----- <br>
