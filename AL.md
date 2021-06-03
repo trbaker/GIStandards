@@ -1,3 +1,3 @@
 # AL
-#### Report date: 2021-06-03 
-============     spatial /n spatial /nGIS /ngeospatial /n spatial /n spatial /nGIS /ngeospatial /n spatial /n spatial /n spatial /n spatial /n spatial /n spatial /n spatial /n spatial /nGIS /nGIS /nGIS /n spatial /n spatial /nGIS /n spatial /n spatial /n spatial /n spatial /n spatial /nGIS /nGeographic Information System /nGIS /nGIS /nGIS /n spatial /n spatial /nGIS /n spatial /n spatial /n spatial /n spatial /n spatial /n spatial /n
+##### Report date: 2021-06-03 
+============  ##### Overall frequency of all keywords: 41/n spatial /n spatial /nGIS /ngeospatial /n spatial /n spatial /nGIS /ngeospatial /n spatial /n spatial /n spatial /n spatial /n spatial /n spatial /n spatial /n spatial /nGIS /nGIS /nGIS /n spatial /n spatial /nGIS /n spatial /n spatial /n spatial /n spatial /n spatial /nGIS /nGeographic Information System /nGIS /nGIS /nGIS /n spatial /n spatial /nGIS /n spatial /n spatial /n spatial /n spatial /n spatial /n spatial /n
