@@ -1,1 +1,1 @@
-<h1>AL</h1>Report date: 2021-06-03<br><br><b>Overall frequency of all keywords:</b> 41<br>- By keyword:<br />*  spatial: 27<br />* geospatial: 2<br />- By discipline
+<h1>AL</h1>Report date: 2021-06-03<br><br><b>Overall frequency of all keywords:</b> 41<br>- By keyword:<br />--  spatial: 27<br />-- geospatial: 2<br />- By discipline
