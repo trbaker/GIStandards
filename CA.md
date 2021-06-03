@@ -1,1 +1,1 @@
-<h1>CA</h1>Report date: 2021-06-03<br><hr><br>##### Overall frequency of all keywords: 0<br>
+<h1>CA</h1>Report date: 2021-06-03<br><br><b>Overall frequency of all keywords:</b> 0<br>
