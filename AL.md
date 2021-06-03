@@ -1,3 +1,3 @@
 # AL
-Report date: 2021-06-03
-----------   spatial spatialGISgeospatial spatial spatialGISgeospatial spatial spatial spatial spatial spatial spatial spatial spatialGISGISGIS spatial spatialGIS spatial spatial spatial spatial spatialGISGeographic Information SystemGISGISGIS spatial spatialGIS spatial spatial spatial spatial spatial spatial
+### Report date: 2021-06-03 
+----------   spatial /n spatial /nGIS /ngeospatial /n spatial /n spatial /nGIS /ngeospatial /n spatial /n spatial /n spatial /n spatial /n spatial /n spatial /n spatial /n spatial /nGIS /nGIS /nGIS /n spatial /n spatial /nGIS /n spatial /n spatial /n spatial /n spatial /n spatial /nGIS /nGeographic Information System /nGIS /nGIS /nGIS /n spatial /n spatial /nGIS /n spatial /n spatial /n spatial /n spatial /n spatial /n spatial /n
