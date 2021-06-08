@@ -15,8 +15,8 @@ As of May 27, 2021, standards are being collected and the analysis script is bei
 - Overview and findings
 - [Alabama](AL.html)
 - [Arizona](AZ.html)
-- [Arkansas] (AR.html)
-- [California] (CA.html)
+- [Arkansas](AR.html)
+- [California](CA.html)
 - [Connecticut](CT.html)
 
 #### Appendices
