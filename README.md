@@ -3,7 +3,7 @@
 #### Project URL: http://trbaker.github.io/GIStandards
 
 #### Abstract
-This paper and website contain the results of a machine analysis.  All state core standards (English, math, science, and social studies) and CTEprogram descriptions were collected (here).  A custom python-based program read each standard in search of a keyword list.  Counts were summed and normalized based on total words in the collection of docuemens for that state and subject area.
+This paper and website contain the results of a machine analysis of US curriculum standards.  All state core standards (English, math, science, and social studies) and CTEprogram descriptions were collected (here).  A custom python-based program read each standard in search of a keyword (spatial, geospatial, GIS, geographic information system).  Counts were summed and normalized based on total words in the collection of documents for that state and subject area.
 
 #### Academic citation:
 [Baker,T.R.](https://orcid.org/0000-0002-5005-9663) (2021). *Geospatial keywords in US K12 curriculum standards*. http://trbaker.github.io/GIStandards
