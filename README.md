@@ -18,6 +18,7 @@ As of May 27, 2021, standards are being collected and the analysis script is bei
 - [Arkansas](AR.html)
 - [California](CA.html)
 - [Connecticut](CT.html)
+- [Delaware](DE.html)
 
 #### Appendices
 - [Appendix I: Strategies in keyword searching in standards documents](appendix_search.md)
