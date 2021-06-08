@@ -19,7 +19,16 @@ As of May 27, 2021, standards are being collected and the analysis script is bei
 - [Arkansas](AR.html)
 - [California](CA.html)
 - [Connecticut](CT.html)
+- [DC](DC.html)
 - [Delaware](DE.html)
+- [Florida](FL.html)
+- [Georgia](GA.html)
+- [Hawaii](HI.html)
+- [Illinois](IL.html)
+- [Indiana](ID.html)
+- [Iowa](IA.html)
+- [Kansas](KS.html)
+- [Kentucky](KY.html)
 
 #### Appendices
 - [Appendix I: Strategies in keyword searching in standards documents](appendix_search.md)
