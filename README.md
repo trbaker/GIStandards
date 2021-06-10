@@ -29,6 +29,11 @@ As of May 27, 2021, standards are being collected and the analysis script is bei
 - [Iowa](IA.html)
 - [Kansas](KS.html)
 - [Kentucky](KY.html)
+- [Louisiana](LA.html)
+- [Maine](ME.html)
+- [Maryland](MD.html)
+- [Michigan](MI.html)
+- [Minnesota](MN.html)
 
 #### Appendices
 - [Appendix I: Strategies in keyword searching in standards documents](appendix_search.md)
