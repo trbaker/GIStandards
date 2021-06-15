@@ -1,5 +1,5 @@
 # Geospatial keywords in US K12 curriculum standards
-#### A machine analysis of geospatial language in US K-12 state standards
+#### A machine analysis of geospatial language in US K-12 state curriculum standards
 #### Project URL: http://trbaker.github.io/GIStandards
 
 #### Abstract
