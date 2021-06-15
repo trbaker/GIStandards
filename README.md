@@ -42,6 +42,7 @@ This website contains the results of a machine analysis of US curriculum standar
 
 #### Appendices
 - [Appendix I: Strategies in keyword searching in standards documents](appendix_search.md)
+- [Keyword listing and brief discussion](appendix_keyword.md)
 
 ----------------------
 #### Project status and feedback
