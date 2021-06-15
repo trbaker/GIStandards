@@ -34,9 +34,11 @@ This website contains the results of a machine analysis of US curriculum standar
 - [Mississippi](MS.html)
 - [Missouri](MO.html)
 - [Montana](MT.html)
+- [Nebraska](NE.html)
 - [New Jersey](NJ.html)
+- [New Mexico](NM.html)
 - [North Carolina](NC.html)
-- (North Dakota](ND.html)
+- [North Dakota](ND.html)
 - [Nevada](NV.html)
 
 #### Appendices
