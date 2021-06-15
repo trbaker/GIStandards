@@ -1,6 +1,5 @@
 # Geospatial keywords in US K12 curriculum standards
 #### A machine analysis of geospatial language in US K-12 state curriculum standards
-#### Project URL: http://trbaker.github.io/GIStandards
 
 #### Abstract
 This website contains the results of a machine analysis of US curriculum standards.  All state core standards (English, math, science, and social studies) and Career and Technical Education (CTE) program descriptions were collected.  A custom python-based program read each standard in search of a keyword (spatial, geospatial, GIS, geographic information system, and geographic analysis).  Counts were summed and normalized based on total words in the collection of documents for that state and subject area. Analysis of data is forthcoming. See project status below for more information.
