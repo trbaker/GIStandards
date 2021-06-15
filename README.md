@@ -3,13 +3,10 @@
 #### Project URL: http://trbaker.github.io/GIStandards
 
 #### Abstract
-This paper and website contain the results of a machine analysis of US curriculum standards.  All state core standards (English, math, science, and social studies) and CTEprogram descriptions were collected (here).  A custom python-based program read each standard in search of a keyword (spatial, geospatial, GIS, geographic information system, and geographic analysis).  Counts were summed and normalized based on total words in the collection of documents for that state and subject area.
+This website contains the results of a machine analysis of US curriculum standards.  All state core standards (English, math, science, and social studies) and Career and Technical Education (CTE) program descriptions were collected.  A custom python-based program read each standard in search of a keyword (spatial, geospatial, GIS, geographic information system, and geographic analysis).  Counts were summed and normalized based on total words in the collection of documents for that state and subject area. Analysis of data is forthcoming. See project status below for more information.
 
 #### Academic citation:
 [Baker,T.R.](https://orcid.org/0000-0002-5005-9663) (2021). *Geospatial keywords in US K12 curriculum standards*. http://trbaker.github.io/GIStandards
-
-#### Project status and feedback
-As of May 27, 2021, standards are being collected and the analysis script is being finalized.  A phase 1 release is targeted for early June 2021. If you find errors or have concerns about any part of this work, please email: trbaker@gmail.com
 
 #### Chapters
 - Overview and findings
@@ -29,13 +26,20 @@ As of May 27, 2021, standards are being collected and the analysis script is bei
 - [Iowa](IA.html)
 - [Kansas](KS.html)
 - [Kentucky](KY.html)
+- [Louisiana](LA.html)
+- [Maine](ME.html)
+- [Maryland](MD.html)
+- [Michigan](MI.html)
+- [Minnesota](MN.html)
 
 #### Appendices
 - [Appendix I: Strategies in keyword searching in standards documents](appendix_search.md)
 
 ----------------------
-#### Timelines and milesontes
+#### Project status and feedback
+As of June 1, 2021, the standards are being collected and the analysis script is being finalized.  A phase 1 release is targeted for mid  June 2021. If you find errors or have concerns about any part of this work, please email: trbaker@gmail.com
 
+#### Timelines and milesontes
 Project Updates:
 - Databases and Python engine are ready
 - A state-by-state collection of standards is being built. Retreiving on-the-fly proved too problematic.
