@@ -31,6 +31,13 @@ This website contains the results of a machine analysis of US curriculum standar
 - [Maryland](MD.html)
 - [Michigan](MI.html)
 - [Minnesota](MN.html)
+- [Mississippi](MS.html)
+- [Missouri](MO.html)
+- [Montana](MT.html)
+- [New Jersey](NJ.html)
+- [North Carolina](NC.html)
+- (North Dakota](ND.html)
+- [Nevada](NV.html)
 
 #### Appendices
 - [Appendix I: Strategies in keyword searching in standards documents](appendix_search.md)
