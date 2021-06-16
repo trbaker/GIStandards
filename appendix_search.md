@@ -6,10 +6,11 @@ Keyword counts are normalized by total words for those standards.  State A may u
 
 Word counts look for runs of letters, separated by a space. This generally works well, although tables can be problematic. Extensive footers throughout a document can skew the practical total word count. Finally, the identifiers used in standards (e.g. C.1.234f) can be counted as one or more words, depending on how the indicator string is written.
 
-Documents archived included:
-- Core, Content, or Performance Standards
+Documents archived include (in order of preference):
+- Core, Content, or Performance tandards
 - Frameworks
-- Course or programs of study (when neither standards or frameworks were found)
+- Course or programs of study (CTE)
+- Assessment blueprints (CTE)
 
 Documents not included:
 - Progressions
