@@ -39,6 +39,18 @@ This website contains the results of a machine analysis of US curriculum standar
 - [North Carolina](NC.html)
 - [North Dakota](ND.html)
 - [Nevada](NV.html)
+- [New Mexico](NM.html)
+- [New York](NY.html)
+- [New Jersey](NJ.html)
+- [North Carolina](NC.html)
+- [North Dakota](ND.html)
+- [Ohio](OH.html)
+- [Oklahoma](OK.html)
+- [Orgeon](OR.html)
+- [Pennsylvania](PA.html)
+- [Rhode Island](RI.html)
+- [South Carolina](SC.html)
+- [South Dakota](SD.html)
 
 #### Appendices
 - [Appendix I: Strategies in keyword searching in standards documents](appendix_search.md)
