@@ -14,6 +14,7 @@ This research contains the results of a machine analysis of over 3,500 US curric
 - [Arizona](AZ.html)
 - [Arkansas](AR.html)
 - [California](CA.html)
+- [Colorado](CO.html)
 - [Connecticut](CT.html)
 - [DC](DC.html)
 - [Delaware](DE.html)
