@@ -51,6 +51,16 @@ This website contains the results of a machine analysis of US curriculum standar
 - [Rhode Island](RI.html)
 - [South Carolina](SC.html)
 - [South Dakota](SD.html)
+- [Tennessee](TN.html)
+- [Texas](TX.html)
+- [Oregon](OR.html)
+- [Utah](UT.html)
+- [Virginia](VA.html)
+- [Vermont](VA.html)
+- [West Virginia}(WV.html)
+- [Wisconsin](WI.html)
+- [Wyoming](WY.html)
+- 
 
 #### Appendices
 - [Appendix I: Strategies in keyword searching in standards documents](appendix_search.md)
