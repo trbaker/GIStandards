@@ -30,6 +30,7 @@ This research contains the results of a machine analysis of over 3,500 US curric
 - [Louisiana](LA.html)
 - [Maine](ME.html)
 - [Maryland](MD.html)
+- [Massachusetts](MA.html)
 - [Michigan](MI.html)
 - [Minnesota](MN.html)
 - [Mississippi](MS.html)
