@@ -21,6 +21,7 @@ This research contains the results of a machine analysis of over 3,500 US curric
 - [Florida](FL.html)
 - [Georgia](GA.html)
 - [Hawaii](HI.html)
+- [Idaho](ID.html)
 - [Illinois](IL.html)
 - [Indiana](ID.html)
 - [Iowa](IA.html)
