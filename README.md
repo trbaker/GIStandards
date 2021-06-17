@@ -8,7 +8,7 @@ This research contains the results of a machine analysis of over 3,500 US curric
 [Baker,T.R.](https://orcid.org/0000-0002-5005-9663) (2021). *Geospatial keywords in US K12 curriculum standards*. http://trbaker.github.io/GIStandards
 
 #### Chapters
-- Overview and findings
+- Report and findings (forthcoming)
 - [Alabama](AL.html)
 - [Alaska](AK.html)
 - [Arizona](AZ.html)
@@ -67,6 +67,6 @@ This research contains the results of a machine analysis of over 3,500 US curric
 - [Appendix II: Keyword listing and brief discussion](appendix_keywords.md)
 - [Appendix III: Project status](appendix_status.md)
 - [Appendix IV: Author information (offsite)](https://orcid.org/0000-0002-5005-9663)
-- [Acknowledgements](ack.md) 
+- [Appendix V: Acknowledgements](appendix_ack.md) 
 
 
