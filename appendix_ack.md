@@ -6,6 +6,7 @@ The author wishes to acknowledge Dr. Injeong Jo (Texas State University) and Bar
 # Reviewers and advisors
 A heartfelt thanks to those who regularly review the methods, data, and analysis of this project.
 
+- Sarah Bednarz, Emeritus, Texas A&M (NM)
 - Shana Crosson, University of Minnesota
 - Charlie Fitzpatrick, Esri
 - Erika Klose, West Virginia Department of Education
