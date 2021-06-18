@@ -10,4 +10,5 @@ A heartfelt thanks to those who regularly review the methods, data, and analysis
 - Charlie Fitzpatrick, Esri
 - Erika Klose, West Virginia Department of Education
 - Elizabeth Langran, Marymount University (VA)
+- Jeff Lash, University of Houston - Clear Lake (TX)
 - Anita Palmer, GISetc (CA)
