@@ -20,3 +20,23 @@ Documents not included:
 Not all state standards are equally impactful – whether there is variable compliance by educators, or simply a state with a small population.  Are West Virginia’s standards as impactful as California’s?
 
 CTE 'standardss' should probably not be compared to the four core acaemic standards.  The majority of documents used in CTE are course or program of study descriptions, while the core academic disciplines use content standards.  By and large, social studies standards vary more greatly (in content and form) from state to state than the other three academic areas.  
+
+
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-VJ281EFGY0"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-VJ281EFGY0');
+</script><!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-VJ281EFGY0"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-VJ281EFGY0');
+</script>
