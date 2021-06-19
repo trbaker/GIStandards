@@ -55,7 +55,7 @@ This research contains the results of a machine analysis of over 3,500 US curric
 - [Oregon](OR.html)
 - [Utah](UT.html)
 - [Virginia](VA.html)
-- [Vermont](VA.html)
+- [Vermont](VT.html)
 - [Washington](WA.html)
 - [West Virginia](WV.html)
 - [Wisconsin](WI.html)
