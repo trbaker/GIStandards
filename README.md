@@ -1,6 +1,8 @@
 # Geospatial keywords in US K12 curriculum standards
 #### A machine analysis of geospatial language in US K-12 state curriculum standards
 
+### WARNING: THESE DATA ARE NOT YET VALID. WHEN THIS MESSAGE IS GONE, THE DATA MAY BE USED.
+
 #### Abstract
 This research contains the results of a machine analysis of over 3,500 US curriculum standards or similar curriculum references.  All state core standards (English, math, science, and social studies) and Career and Technical Education (CTE) curriculum references were collected.  A python-based program read each standards document in search of a keyword (spatial, geospatial, GIS, geographic information system, or geographic analysis).  Counts were summed and normalized based on total words in the collection of documents for that state and subject area. 
 
@@ -8,7 +10,7 @@ This research contains the results of a machine analysis of over 3,500 US curric
 [Baker,T.R.](https://orcid.org/0000-0002-5005-9663) (2021). *Geospatial keywords in US K12 curriculum standards*. http://trbaker.github.io/GIStandards
 
 #### Chapters
-- [Report and findings](overview.html) - forthcoming
+- Report and finding - forthcoming
 - [Alabama](AL.html)
 - [Alaska](AK.html)
 - [Arizona](AZ.html)
