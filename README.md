@@ -11,7 +11,8 @@ This research contains the results of a machine analysis of over 3,500 US curric
 
 #### Project Stats
 - Total geospatial keywords found to date: 882
-- states by total keywords: MI, TX, MN, AL, TN
+- States by total keywords: MI, TX, MN, AL, TN
+- Total standards documents scanned: 3,528
 
 #### Chapters
 - Report and finding - forthcoming ([statenorms](overview.html))
