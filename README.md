@@ -10,6 +10,12 @@ This research contains the results of a machine analysis of over 3,500 US curric
 - Total geospatial keywords found to date: 965
 - Top five states by total keywords: MI, TX, MN, AL, TN
 - Total standards documents scanned: 3,528
+- States with geospatial keywords in:
+- - ELA:
+- - Math:
+- - Science:
+- - Social studies:
+- - CTE: 
 
 #### Citation
 [Baker,T.R.](https://orcid.org/0000-0002-5005-9663) (2021). *Geospatial keywords in US K12 curriculum standards*. http://trbaker.github.io/GIStandards
