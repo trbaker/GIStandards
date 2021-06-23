@@ -11,10 +11,10 @@ This research contains the results of a machine analysis of over 3,500 US curric
 - Top five states by total keywords: MI, TX, MN, AL, TN
 - Total standards documents scanned: 3,528
 - States with geospatial keywords in:
-  - ELA:
-  - Math:
-  - Science:
-  - Social studies:
+  - ELA: 32
+  - Math: 34
+  - Science: 28
+  - Social studies: 45
   - CTE: 32
 
 #### Citation
