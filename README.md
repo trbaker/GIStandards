@@ -9,7 +9,7 @@ This research contains the results of a machine analysis of over 3,500 US curric
 #### Project Stats
 - Total geospatial keywords found to date: 965
 - Top five states by total keywords: MI, TX, MN, AL, TN
-- Total standards documents scanned: 3,528
+- Total standards documents scanned: 3,532
 - States with geospatial keywords in:
   - ELA: 32
   - Math: 34
