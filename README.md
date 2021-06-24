@@ -79,8 +79,7 @@ This research contains the results of a machine analysis of over 3,500 US curric
 - [Appendix I: Strategies in keyword searching and normalizing](appendix_search.md)
 - [Appendix II: Keyword listing and brief discussion](appendix_keywords.md)
 - [Appendix III: Project status](appendix_status.md)
-- [Appendix IV: Author information (offsite)](https://orcid.org/0000-0002-5005-9663)
-- [Appendix V: Acknowledgements](appendix_ack.md) 
+- [Appendix IV: Acknowledgements](appendix_ack.md) 
 
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
