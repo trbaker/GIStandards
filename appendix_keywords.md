@@ -2,11 +2,11 @@
 
 This machine analysis searches for the following keywords.  Note that some keywords include a space (indicated as "_") before or after the word.  This is intended to improve search results by reducing false positives.
 
-- GIS
-- geospatial
-- geographic analysis
-- _spatial
-- Geographic Information System
+- GIS (~ 22% of geospatial keywords found)
+- geospatial (~ 11% of geospatial keywords found)
+- geographic analysis (~ .3% of geospatial keywords found)
+- _spatial (~ 56% of words found)
+- Geographic Information System (~ .5% of geospatial keywords found)
 
 
 
