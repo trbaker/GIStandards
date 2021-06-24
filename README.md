@@ -4,7 +4,7 @@
 ### WARNING: THESE DATA ARE NOT YET VALIDATED. WHEN THIS MESSAGE IS GONE, THE DATA MAY BE USED.
 
 #### Abstract
-This research contains the results of a machine analysis of over 3,500 US curriculum standards or similar curriculum references.  All state core standards (English, math, science, and social studies) and Career and Technical Education (CTE) curriculum references were collected.  A python-based program read each standards document in search of a keyword (spatial, geospatial, GIS, geographic information system, or geographic analysis).  Counts were summed and normalized based on total words in the collection of documents for that state and subject area. 
+This research contains the results of ongoing machine analyses of over 3,500 US curriculum standards or similar curriculum references.  All state core standards (English, math, science, and social studies) and Career and Technical Education (CTE) curriculum references were collected.  A python-based program reads each standards document in search of a [defined geospatial keyword](appendix_keywords.md).  Counts were [summed and normalized](appendix_search.md) based on total words in the collection of documents for that state and subject area. A number of [generous, external reviewers](appendix_ack.md) have been enlisted to help monitor the project's findings.
 
 #### Snapshot
 - Total geospatial keywords found to date: 965
