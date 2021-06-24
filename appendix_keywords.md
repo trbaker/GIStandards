@@ -7,9 +7,7 @@ This machine analysis searches for the following keywords.  Note that some keywo
 - geographic analysis (~ .3% of geospatial keywords found)
 - _spatial (~ 56% of words found)
 - Geographic Information System (~ .5% of geospatial keywords found)
-
-
-
+- Global Positioning System (~ x% of geospatial keywords found)
 
 
 
