@@ -1,6 +1,6 @@
 # Keywords
 
-This machine analysis searches for the following keywords.  Note that some keywords include a space (indicated as "_") before or after the word.  This is intended to improve search results by reducing false positives.
+This machine analysis searches for the following keywordsor phrases.  Note that some keywords include a space (indicated as "_") before or after the word.  This is intended to improve search results by reducing false positives. Searching is case-sensitive. Variations in case are included below.  The percent of total occurrence of a keyword or phrase (across all states and subjects) is included below.
 
 - GIS (~ 22% of geospatial keywords found)
 - geospatial, Geospatial (~ 11% of geospatial keywords found)
