@@ -4,12 +4,12 @@
 ### WARNING: THESE DATA ARE NOT YET VALIDATED. WHEN THIS MESSAGE IS GONE, THE DATA MAY BE USED.
 
 #### Abstract
-This research contains the results of a machine analysis of over 3,500 US curriculum standards or similar curriculum references.  All state core standards (English, math, science, and social studies) and Career and Technical Education (CTE) curriculum references were collected.  A python-based program read each standards document in search of a keyword (spatial, geospatial, GIS, geographic information system, or geographic analysis).  Counts were summed and normalized based on total words in the collection of documents for that state and subject area. 
+This research contains the results of ongoing machine analyses of over 3,500 US curriculum standards or similar curriculum references.  All state core standards (English, math, science, and social studies) and Career and Technical Education (CTE) curriculum references were collected.  A python-based program reads each standards document in search of a [defined geospatial keyword](appendix_keywords.md).  Counts were [summed and normalized](appendix_search.md) based on total words in the collection of documents for that state and subject area. A number of [generous, external reviewers](appendix_ack.md) have been enlisted to help monitor the project's findings.
 
-#### Project Stats
-- Total geospatial keywords found to date: 965
+#### Snapshot
+- Total count of the six project [keywords](appendix_keywords.md) found in standards: 965
 - Top five states by total keywords: MI, TX, MN, AL, TN
-- Total standards documents scanned: 3,528
+- Total standards documents scanned: 3,532
 - States with geospatial keywords in:
   - ELA: 32
   - Math: 34
@@ -21,7 +21,7 @@ This research contains the results of a machine analysis of over 3,500 US curric
 [Baker,T.R.](https://orcid.org/0000-0002-5005-9663) (2021). *Geospatial keywords in US K12 curriculum standards*. http://trbaker.github.io/GIStandards
 
 #### Chapters
-- Report and finding - *forthcoming* ([statenorms](overview.html))
+- Report and finding - *forthcoming* 
 - [Alabama](AL.html)
 - [Alaska](AK.html)
 - [Arizona](AZ.html)
@@ -79,8 +79,7 @@ This research contains the results of a machine analysis of over 3,500 US curric
 - [Appendix I: Strategies in keyword searching and normalizing](appendix_search.md)
 - [Appendix II: Keyword listing and brief discussion](appendix_keywords.md)
 - [Appendix III: Project status](appendix_status.md)
-- [Appendix IV: Author information (offsite)](https://orcid.org/0000-0002-5005-9663)
-- [Appendix V: Acknowledgements](appendix_ack.md) 
+- [Appendix IV: Acknowledgements](appendix_ack.md) 
 
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
