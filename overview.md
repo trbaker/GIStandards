@@ -28,6 +28,8 @@ Figure 2 shows that "spatial" is the primary geospatial keyword in both English 
 
 
 ### Analyses
+Spatial distro by subjects and total
+Using comparative score to describe the distribution.
 
 ### Conclusions
 
