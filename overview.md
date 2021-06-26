@@ -18,11 +18,15 @@ Fifty states' (and one district's) findings reports are generated and posted on 
 
 Each of five subject areas use the selected geospatial keywords in multiple states – ranging from approximately two dozen states with geospatial language in science standards to nearly four dozen states with geospatial language in the social studies standards.  Geospatial keywords were surprisingly robust in both math and English (ELA) although the vast majority can be attributed to the use of the word, “spatial”.
 
-<img src="plots/fig1.png" width="500">
+<a href="plots/fig1.png"><img align="center" border=0 src="plots/fig1.png" width="500"></a>
+
+The keyword "spatial" accounts for about 50% of all keywords found.  While "spatial" is a general term, often used interchangeably with locational or geographical, it alone does not rise to the level of specificity of "geospatial", "GIS", or even "geographic analysis".  Use in various standards, "spatial" is often used with "temporal" (especially in science) to underscore the relevance of time and space in data.  For these reasons, it's worth reconsidering figure 1 with "spatial" removed from findings.
+
+
 
 ### Analyses
 
-###Conclusions
+### Conclusions
 
 
 
