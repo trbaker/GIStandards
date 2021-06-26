@@ -30,6 +30,7 @@ Figure 2 shows that "spatial" is the primary geospatial keyword in both English 
 ### Analyses
 Spatial distro by subjects and total
 Using comparative score to describe the distribution.
+Tests of significance?
 
 ### Conclusions
 Aside from state curriculum standards, in the US, national subject area standards (along with cross-cutting standards like ISTE's technology standards) and district or local standards may all inform classroom activities to varying levels.  Assessments tied to standards, administrative oversight, and external factors (e.g. COVID-19) also all play roles on the impact of standards in classroom activites. Regardless, this research should help inform curriculum developers, educators, and researchers about the condition of geospatial language used in state standards - in part providing a way to view and measure the importance of geospatial tools in curriculum and society as gauged by the larger K-12 community.
