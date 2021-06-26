@@ -24,7 +24,7 @@ The keyword "spatial" accounts for about 50% of all keywords found.  While "spat
 
 <a href="plots/fig2.png"><img align="center" border=0 src="plots/fig2.png" width="500"></a>
 
-Figure 2 shows that "spatial" is the primary geospatial keyword in both English (ELA) and mathematics (MA).  In science, the Next Generation Science Standards (NGSS) refer to "spatial and temporal".  The shift from figure 1 to figure 2 in science indicates in large part, the number of states using the NGSS. The change in social studies was the real surprise, moving from 46 to 32 or about a % decline in states with
+Figure 2 shows that "spatial" is the primary geospatial keyword in both English (ELA) and mathematics (MA).  In science, the Next Generation Science Standards (NGSS) refer to "spatial and temporal".  The shift from figure 1 to figure 2 in science indicates in large part, the number of states using the NGSS. The change in social studies was the real surprise, moving from 46 to 32 or about a % decline in states when "spatial" was removed from the geospatial keyword list.  Califnornia is one such example where "spatial thinking", "spatial contexts", and "spatial distribution" are present in the social studies standards but there is no geospatial language or technology in those standards.  It's a cautionary tale.
 
 
 ### Analyses
