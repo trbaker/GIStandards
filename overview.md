@@ -1,4 +1,4 @@
-# GIS in K12 standards: Analysis overview
+# Overview
 
 ### Background
 This research uses iterative machine analyses to search for, record, and analyze
