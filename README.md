@@ -20,6 +20,8 @@ This research contains the results of ongoing machine analyses of over 3,500 US 
 #### Citation
 [Baker,T.R.](https://orcid.org/0000-0002-5005-9663) (2021). *Geospatial keywords in US K12 curriculum standards*. http://trbaker.github.io/GIStandards
 
+DOI: https://doi.org/10.6084/m9.figshare.14863317.v1
+
 #### Chapters
 - Report and finding - *forthcoming* 
 - [Alabama](AL.html)
