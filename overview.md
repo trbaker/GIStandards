@@ -21,7 +21,7 @@ Documents not included:
 - Progressions
 - Introductions (unless a part of an above document)
 - “placemat” standards (unless no other standards documents were found)
-- 
+
 The majority of documents used in CTE are course or program of study descriptions, while the core academic disciplines use content standards. By and large, social studies standards vary more greatly (in content and form) from state to state than the other three academic areas.
 
 Standards documents were either downloaded in a PDF (format) or converted to PDF. There were cases where PDFs needed to be encoded without binary objects (like images), allowing for the PDF to be readable by the machine. These PDFs are included in the file archive. Most of these updated PDFs are not easy for humans to read, but are far more machine readable than the originals. 
@@ -30,7 +30,7 @@ For purposes of reproducibility, the MacIntosh worflow for PDF conversion: 1. Ad
 
 
 ### FINDINGS
-Fifty states' (and one district's) findings reports are generated and posted on this site, https://trbaker.github.com/GIStandards  These state reports each contain:
+Fifty states' (and one district's) findings are generated and posted on this site, https://trbaker.github.com/GIStandards  These state reports each contain:
 -	Total geospatial keywords found in five standards areas
 -	A “comparable score” (basically the total geospatial keywords divided by all words in the standards)
 -	A count of geospatial keywords (and comparable scores) by subject area
