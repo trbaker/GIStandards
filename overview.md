@@ -1,6 +1,6 @@
 # Overview
 
-### Background
+### BACKGROUND
 This research uses iterative machine analyses to search for, record, and analyze
 the presence of select geospatial keywords in US K12 curriculum standards, frameworks,
 and programs of study. The state curriculum standards in English language arts (ELA), mathematics (MA), science (SC), social studies (SS), and Career Technical Education (CTE) as defined by each state, are accessed in their most recent version, decrypted, and saved to an archive prior to the machine analyses.
@@ -29,7 +29,7 @@ Standards documents were either downloaded in a PDF (format) or converted to PDF
 For purposes of reproducibility, the MacIntosh worflow for PDF conversion: 1. Adobe Acrobat > File: Export to: Rich Text Format 2. TextEdit > Print : PDF : Save as PDF.
 
 
-### Findings
+### FINDINGS
 Fifty states' (and one district's) findings reports are generated and posted on this site, https://trbaker.github.com/GIStandards  These state reports each contain:
 -	Total geospatial keywords found in five standards areas
 -	A “comparable score” (basically the total geospatial keywords divided by all words in the standards)
@@ -49,7 +49,7 @@ Figure 2 shows that "spatial" is the primary geospatial keyword in both English 
 
 For the remainder of this analysis, "spatial" will remain in the keword list.
 
-### Analyses
+### ANALYSES
 When plotting data on a histogram, it is apparent the total raw count of geospatial keywords by state is non-normal, producing a histogram that is right-skewed. Note the mean and nearly equal standard deviation.
 
 <a href="plots/fig3.png"><img align="center" border=0 src="plots/fig3.png" width="500"></a>
@@ -64,11 +64,11 @@ Spatial distro by subjects and total
 Using comparative score to describe the distribution.
 Tests of significance?
 
-### Conclusions
+### CONCLUSIONS
 Aside from state curriculum standards, in the US, national subject area standards (along with cross-cutting standards like ISTE's technology standards) and district or local standards may all inform classroom activities to varying levels.  Assessments tied to standards, administrative oversight, and external factors (e.g. COVID-19) also all play roles on the impact of standards in classroom activites. Regardless, this research should help inform curriculum developers, educators, and researchers about the condition of geospatial language used in state standards - in part providing a way to view and measure the importance of geospatial tools in curriculum and society as gauged by the larger K-12 community.
 
 
-### Bibliography
+### BIBLIOGRAPHY
 
 Jo, I., Duke, B. & Baker, T.R. (2019). Advance Your Geospatial Technology--Empowered by Your Curriculum Standards. NCSS 2019 Conference: Austin, TX. http://bit.ly/geospatialwords 
 
