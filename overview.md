@@ -37,7 +37,7 @@ In this project, keyword counts are normalized by total words in those standards
 
 <a href="plots/fig4.png"><img align="center" border=0 src="plots/fig4.png" width="500"></a>
 
-
+While this distribution is also right-skewed, the standard deviation is lower than the mean
 
 Spatial distro by subjects and total
 Using comparative score to describe the distribution.
