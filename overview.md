@@ -45,12 +45,12 @@ The keyword "spatial" accounts for about 50% of all keywords found.  While "spat
 
 <a href="plots/fig2.png"><img align="center" border=0 src="plots/fig2.png" width="500"></a>
 
-Figure 2 shows that "spatial" is the primary geospatial keyword in both English (ELA) and mathematics (MA).  In science, the Next Generation Science Standards (NGSS) refer to "spatial and temporal".  The shift from figure 1 to figure 2 in science indicates in large part, the number of states using the NGSS. The change in social studies was the real surprise, moving from 46 to 31 states - or about a 35% decline in states when "spatial" was removed from the geospatial keyword list.  Califnornia is one such example where "spatial thinking", "spatial contexts", and "spatial distribution" are present in the social studies standards but there is no geospatial language or technology in those standards.  It's a cautionary tale.
+Figure 2 shows that "spatial" is the only geospatial keyword in most English (ELA) and mathematics (MA) standards.  In science, the Next Generation Science Standards (NGSS) refer to "spatial and temporal".  The shift from figure 1 to figure 2 in science indicates in large part, the number of states using the NGSS. The change in social studies was the real surprise, moving from 46 to 31 states - or about a 35% decline in states when "spatial" was removed from the geospatial keyword list.  Califnornia is one such example where "spatial thinking", "spatial contexts", and "spatial distribution" are present in the social studies standards but there is no geospatial language or technology in those standards.  It's a cautionary tale.
 
 For the remainder of this analysis, "spatial" will remain in the keword list.
 
 ### ANALYSES
-When plotting data on a histogram, it is apparent the total raw count of geospatial keywords by state is non-normal, producing a histogram that is right-skewed. Note the mean and nearly equal standard deviation.
+When plotting data on a histogram, it is apparent the total raw count of geospatial keywords by state is non-normal, producing a histogram that is right-skewed. Due to the skewedness of the distribution, the median rather than the mean is provided.
 
 <a href="plots/fig3.png"><img align="center" border=0 src="plots/fig3.png" width="500"></a>
 
@@ -58,10 +58,9 @@ In this project, keyword counts are normalized by total words in those standards
 
 <a href="plots/fig4.png"><img align="center" border=0 src="plots/fig4.png" width="500"></a>
 
-While this distribution is also right-skewed, the standard deviation is lower than the mean
+While this distribution is also right-skewed, the standard deviation (and range) of the dataset is much tighter.
 
 Spatial distro by subjects and total
-Using comparative score to describe the distribution.
 Tests of significance?
 
 ### CONCLUSIONS
