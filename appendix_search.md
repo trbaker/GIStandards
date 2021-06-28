@@ -15,9 +15,7 @@ Documents not included:
 - Introductions (unless a part of an above document)
 - “placemat” standards (unless no other standards documents were found)
 
-Not all state standards are equally impactful – whether there is variable compliance by educators, or simply a state with a small population.  Are West Virginia’s standards as impactful as California’s?
-
-CTE 'standardss' should probably not be compared to the four core acaemic standards.  The majority of documents used in CTE are course or program of study descriptions, while the core academic disciplines use content standards.  By and large, social studies standards vary more greatly (in content and form) from state to state than the other three academic areas.  
+ The majority of documents used in CTE are course or program of study descriptions, while the core academic disciplines use content standards.  By and large, social studies standards vary more greatly (in content and form) from state to state than the other three academic areas.  
 
 ### Reading PDFs
 Standards documents were either downloaded in a PDF (format) or converted to PDF.  There were cases where PDFs needed to be encoded without binary objects (like images), allowing for the PDF to be readable by the machine.  These PDFs are included in the file archive.  Most of these updated PDFs are not easy for humans to read, but are far more machine readable than the originals. The MacIntosh worflow for conversion: 1. Adobe Acrobat > File: Export to: Rich Text Format 2. TextEdit > Print : PDF : Save as PDF.
