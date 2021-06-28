@@ -78,10 +78,9 @@ DOI: https://doi.org/10.6084/m9.figshare.14863317.v1
 - [Wyoming](WY.html)
 
 #### Appendices
-- [Appendix I: Strategies in keyword searching and normalizing](appendix_search.md)
-- [Appendix II: Keyword listing and brief discussion](appendix_keywords.md)
-- [Appendix III: Project status](appendix_status.md)
-- [Appendix IV: Acknowledgements](appendix_ack.md) 
+- [Appendix: Keyword listing and brief discussion](appendix_keywords.md)
+- [Appendix: Project status](appendix_status.md)
+- [Appendix: Acknowledgements](appendix_ack.md) 
 
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
