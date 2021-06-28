@@ -33,7 +33,7 @@ When plotting data on a histogram, it is apparent the total raw count of geospat
 
 <a href="plots/fig3.png"><img align="center" border=0 src="plots/fig3.png" width="500"></a>
 
-_comparable score
+In this project, keyword counts are normalized by total words in those standards (called a comparable score).  State A may use 40,000 words to describe its K12 science standards, where state B uses 400,000 words.  While the documents may or may not include the same concepts, the machine counts the occurrence of each keyword.  The 400,000-word document may not include concepts not in the 40,000 word document, however the larger document may more thoroughly explain a concept with multiple examples.  By normalizing the machine’s count (dividing by total words in the standards), we improve the reported values for state-by-state comparison purposes. This is not a perfect solution, but a better one.
 
 <a href="plots/fig4.png"><img align="center" border=0 src="plots/fig4.png" width="500"></a>
 
