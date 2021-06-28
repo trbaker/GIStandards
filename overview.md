@@ -8,6 +8,25 @@ and programs of study. The state curriculum standards in English language arts (
 A modern, high-level programming language, Python 3.x was used to search the 3,500+ standards documents included in the study. The library PyPDF2 was used for reading documents. MySQL database was used to hold the retrieved data and samples. Python was also used to generate Markdown and HTML web pages based on content logged to the database. Python libraries Matplotlib and Numpy are used to generate the charts and graphcs.
 The technical architecture used in this project is flexible, allowing for standards documents to be added or removed.  With the click of a few buttons all standards documents can be rescanned, committed to the database, analyzed, and published.  As multiple states update one or more standards documents annually, this capacity to completely recreate the analyses and reports is critical.  The algorithms and code are also flexible in that keywords may be added or removed.  Even geographical entities (e.g. US territories) could relatively easily added to the reporting.
 
+#### Reading docments
+Word counts look for runs of letters, separated by a space. This generally works well, although tables can be problematic. Extensive footers throughout a document can skew the practical total word count. Finally, the identifiers used in standards (e.g. C.1.234f) can be counted as one or more words, depending on how the indicator string is written.
+
+Documents archived include (in order of preference):
+
+Core, Content, or Performance tandards
+Frameworks
+Course or programs of study (CTE)
+Assessment blueprints (CTE)
+Documents not included:
+
+Progressions
+Introductions (unless a part of an above document)
+“placemat” standards (unless no other standards documents were found)
+The majority of documents used in CTE are course or program of study descriptions, while the core academic disciplines use content standards. By and large, social studies standards vary more greatly (in content and form) from state to state than the other three academic areas.
+
+Standards documents were either downloaded in a PDF (format) or converted to PDF. There were cases where PDFs needed to be encoded without binary objects (like images), allowing for the PDF to be readable by the machine. These PDFs are included in the file archive. Most of these updated PDFs are not easy for humans to read, but are far more machine readable than the originals. The MacIntosh worflow for conversion: 1. Adobe Acrobat > File: Export to: Rich Text Format 2. TextEdit > Print : PDF : Save as PDF.
+
+
 ### Findings
 Fifty states' (and one district's) findings reports are generated and posted on this site, https://trbaker.github.com/GIStandards  These state reports each contain:
 -	Total geospatial keywords found in five standards areas
