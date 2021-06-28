@@ -28,6 +28,9 @@ Figure 2 shows that "spatial" is the primary geospatial keyword in both English 
 
 
 ### Analyses
+Basic descriptive statistics of geospatial keywords in state standards provide a starting point for understanding their usage.  When examined by state, we find
+
+
 Spatial distro by subjects and total
 Using comparative score to describe the distribution.
 Tests of significance?
