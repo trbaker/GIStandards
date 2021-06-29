@@ -57,13 +57,16 @@ In this project, keyword counts are normalized by total words in those standards
 
 <a href="plots/fig4.png"><img alt="Figure 4" align="center" border=0 src="plots/fig4.png" width="500"></a>
 
-While this distribution is also right-skewed, the standard deviation (and range) of the dataset is much tighter.  Figure 5 shows a state list, ordered by comparative scores where states with a higher score have a higher ratio of geospatial keywords to document size.  For most states, comparative scores increase when there is an identified geosaptial program in CTE (e.g. Maryland, Michigan, Kansas, Alabama) or the state's academic standards make an exceptional effort to incorporate geospatial technologies. For example:
+While this distribution is also right-skewed, the standard deviation (and range) of the dataset is much tighter.  Figure 5 shows a state list, ordered by comparative scores where states with a higher score have a higher ratio of geospatial keywords to document size.  For most states, comparative scores increase when there is an identified geosaptial program in CTE (e.g. Maryland, Michigan, Kansas, Alabama) or the state's academic standards make an exceptional effort to incorporate geospatial language. 
+
+<a href="plots/fig5.png" border=0><img alt="Figure 5" align="right" src="plots/fig5.png"></a>
+
+For example:
 - Social studies: Minnesota, Vermont, Colorado, Idaho, Indiana
 - Science: West Virginia
 - Math: Wyoming
 
-<a href="plots/fig5.png" border=0><img alt="Figure 5" align="right" src="plots/fig5.png"></a>
-
+For educators who must align their activities and lessons to state standards, it's clear that only in rare cases do standards support teaching about geospatial technologies for any discernable amount of time.  There are noticeable exceptions, likely entirely within state CTE standards, where a course or program of study is actually about geospatial technologies.  However, it's clear that throughout social studies and science standards, spatial contexts and relationships are critical components of understanding other phenomena.  It is largely for these reasons, the savvy curriculum developer uses geospatial tools to teach other standards-based content, rather than developing instructional activities that teach the so-called "mechanics" of any given geospatial tool.
 
 
 ### CONCLUSIONS
