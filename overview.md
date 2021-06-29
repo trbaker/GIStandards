@@ -56,12 +56,13 @@ When plotting data on a histogram, it is apparent the total raw count of geospat
 
 In this project, keyword counts are normalized by total words in those standards (called a comparable score).  State A may use 40,000 words to describe its K12 science standards, where state B uses 400,000 words.  While the documents may or may not include the same concepts, the machine counts the occurrence of each keyword.  The 400,000-word document may not include concepts not in the 40,000 word document, however the larger document may more thoroughly explain a concept with multiple examples.  By normalizing the machine’s count (dividing by total words in the standards), we improve the reported values for state-by-state comparison purposes. This is not a perfect solution, but a better one.
 
-<a href="plots/fig4.png"><img align="center" border=0 src="plots/fig4.png" width="500"></a>
+<a href="plots/fig4.png"><img alt="Figure 4" align="center" border=0 src="plots/fig4.png" width="500"></a>
 
-While this distribution is also right-skewed, the standard deviation (and range) of the dataset is much tighter.
+While this distribution is also right-skewed, the standard deviation (and range) of the dataset is much tighter.  Figure 5 shows a state list, ordered by comparative scores where states with a higher score have a higher ratio of geospatial keywords to document size.  For most states, comparative scores increase when there is an identified geosaptial program in CTE (e.g. Kansas, West Virginia, Maryland) or the state's social studies standards make an exceptional effort to incorporate geospatial technologies (e.g. Minnesota).
 
-Spatial distro by subjects and total
-Tests of significance?
+<a href="plots/fig5.png" border=0><img alt="Figure 5" align="right" src="plots/fig5.png"></a>
+
+
 
 ### CONCLUSIONS
 Aside from state curriculum standards, in the US, national subject area standards (along with cross-cutting standards like ISTE's technology standards) and district or local standards may all inform classroom activities to varying levels.  Assessments tied to standards, administrative oversight, and external factors (e.g. COVID-19) also all play roles on the impact of standards in classroom activites. Regardless, this research should help inform curriculum developers, educators, and researchers about the condition of geospatial language used in state standards - in part providing a way to view and measure the importance of geospatial tools in curriculum and society as gauged by the larger K-12 community.
