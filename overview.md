@@ -58,7 +58,7 @@ In this project, keyword counts are normalized by total words in those standards
 
 <a href="plots/fig4.png"><img alt="Figure 4" align="center" border=0 src="plots/fig4.png" width="500"></a>
 
-While this distribution is also right-skewed, the standard deviation (and range) of the dataset is much tighter.  Figure 5 shows a state list, ordered by comparative scores where states with a higher score have a higher ratio of geospatial keywords to document size.  For most states, comparative scores increase when there is an identified geosaptial program in CTE (e.g. West Virginia, Maryland) or the state's social studies standards make an exceptional effort to incorporate geospatial technologies (e.g. Minnesota, Vermont).
+While this distribution is also right-skewed, the standard deviation (and range) of the dataset is much tighter.  Figure 5 shows a state list, ordered by comparative scores where states with a higher score have a higher ratio of geospatial keywords to document size.  For most states, comparative scores increase when there is an identified geosaptial program in CTE (e.g. Maryland) or the state's social studies standards make an exceptional effort to incorporate geospatial technologies (e.g. Minnesota, Vermont).
 
 <a href="plots/fig5.png" border=0><img alt="Figure 5" align="right" src="plots/fig5.png"></a>
 
