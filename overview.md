@@ -53,12 +53,12 @@ When plotting data on a histogram, it is apparent the total raw count of geospat
 
 In an attempt to normalize the raw counts of geospatial keywords, keyword counts are divided by total words in those standards (called a comparable score). 
 
-Consider the common case where state A uses 40,000 words in its K-12 science standards, but state B uses 400,000 words.  The machine counts the occurrence of each keyword in the same way.  By normalizing the machine’s count (dividing by total words in the standards), we might improve the values for state-by-state comparison purposes.  The downside to this effort is that the organization of standards (especially in CTE) can force the denominator in this simple equation to swing wildly: Ultimately giving small standards (or impossible to find standards) an unfair advantage.  It is therefore the researcher's conclusion that the reader really should consider both scores as a way of mitigating extremes. This is not a perfect solution, but a better one.
-
+Consider the common case where state A uses 40,000 words in its K-12 science standards, but state B uses 400,000 words.  The machine counts the occurrence of each keyword in the same way.  By normalizing the machine’s count (dividing by total words in the standards), we might improve the values for state-by-state comparison purposes.  
 <a href="plots/fig4.png"><img alt="Figure 4" align="center" border=0 src="plots/fig4.png" width="500"></a>
+The downside to this effort is that the organization of standards (especially in CTE) can force the denominator in this simple equation to swing wildly: Ultimately giving small standards (or impossible to find standards) an unfair advantage.  It is therefore the researcher's conclusion that the reader really should consider both scores as a way of mitigating extremes. This is not a perfect solution, but a better one.
 
-While this distribution is also right-skewed, the standard deviation (and range) of the dataset is much tighter.  Figure 5 shows a state list, ordered by comparative scores where states with a higher score have a higher ratio of geospatial keywords to document size.  For most states, comparative scores increase
 <a href="plots/fig5.png" border=0><img alt="Figure 5" align="right" src="plots/fig5.png"></a> 
+While this distribution is also right-skewed, the standard deviation (and range) of the dataset is much tighter.  Figure 5 shows a state list, ordered by comparative scores where states with a higher score have a higher ratio of geospatial keywords to document size.  For most states, comparative scores increase
 when there is an identified geosaptial program in CTE (e.g. Maryland, Michigan, Kansas, Alabama) or the state's academic standards make an exceptional effort to incorporate geospatial language. For example:
 - Social studies: Minnesota, Vermont, Colorado, Idaho, Indiana
 - Science: West Virginia
