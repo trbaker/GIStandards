@@ -72,9 +72,12 @@ For educators who must align their activities and lessons to state standards, it
 Examining comparable scores by state on a map does not seem to suggest a regional cluster of states with exceptional use of geospatial language. One interesting facet of the map is the use of "Natural Breaks" to organize data into groups and to represent those groups with color.  In this way, the number of states in each group are not the same, but importantly, each color represents a cohort of states with similar comparable scores.  With this map, the innovators pop out in dark red while the laggards wash out into a pale white.
 
 <style>.embed-container {position: relative; padding-bottom: 80%; height: 0; max-width: 100%;} .embed-container iframe, .embed-container object, .embed-container iframe{position: absolute; top: 0; left: 0; width: 100%; height: 100%;} small{position: absolute; z-index: 40; bottom: 0; margin-bottom: -15px;}</style><div class="embed-container"><small><a href="//education.maps.arcgis.com/apps/Embed/index.html?webmap=3356153e4cc542f7acb8d7bcedc8cce9&extent=-180,1.4428,59.1833,71.3688&zoom=true&scale=false&legend=true&disable_scroll=true&theme=light" style="color:#0000FF;text-align:left" target="_blank">View larger map</a></small><br><iframe width="500" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="GIS in K12 Standards (GIStandards)" src="//education.maps.arcgis.com/apps/Embed/index.html?webmap=3356153e4cc542f7acb8d7bcedc8cce9&extent=-180,1.4428,59.1833,71.3688&zoom=true&previewImage=false&scale=false&legend=true&disable_scroll=true&theme=light"></iframe></div>
+If [map above doesn't display, click here](https://education.maps.arcgis.com/home/webmap/viewer.html?webmap=3356153e4cc542f7acb8d7bcedc8cce9)
 
+<br />
  Further examing the geospatial language in standards through the lens of Rogers' Diffusion of Innovation, we can see the following break down by state comparable scores.
- -Innovators (top 2.5% = 1 state):
+ 
+ - Innovators (top 2.5% = 1 state):
  - Early Adopters (13.5% = 7)
  - Early majority (34% = 17)
  - Late majority (34% = 17)
