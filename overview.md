@@ -58,6 +58,7 @@ Consider the common case where state A uses 40,000 words in its K-12 science sta
 The downside to this effort is that the organization of standards (especially in CTE) can force the denominator in this simple equation to swing wildly: Ultimately giving small standards (or impossible to find standards) an unfair advantage.  It is therefore the researcher's conclusion that the reader really should consider both scores as a way of mitigating extremes. This is not a perfect solution, but a better one.
 
 <a href="plots/fig5.png" border=0><img alt="Figure 5" align="right" src="plots/fig5.png"></a> 
+
 While this distribution is also right-skewed, the standard deviation (and range) of the dataset is much tighter.  Figure 5 shows a state list, ordered by comparative scores where states with a higher score have a higher ratio of geospatial keywords to document size.  For most states, comparative scores increase
 when there is an identified geosaptial program in CTE (e.g. Maryland, Michigan, Kansas, Alabama) or the state's academic standards make an exceptional effort to incorporate geospatial language. For example:
 - Social studies: Minnesota, Vermont, Colorado, Idaho, Indiana
@@ -65,7 +66,6 @@ when there is an identified geosaptial program in CTE (e.g. Maryland, Michigan, 
 - Math: Wyoming
 
 For educators who must align their activities and lessons to state standards, it's clear that only in rare cases do standards support teaching about geospatial technologies for any discernable amount of time.  There are noticeable exceptions, likely entirely within state CTE standards, where a course or program of study is actually about geospatial technologies.  However, it's clear that throughout social studies and science standards, spatial contexts and relationships are critical components of understanding other phenomena.  It is largely for these reasons, the savvy curriculum developer uses geospatial tools to teach other standards-based content, rather than developing instructional activities that teach the so-called "mechanics" of any given geospatial tool.
-
 
 Examining comparable scores by state on a map does not seem to suggest a regional cluster of states with exceptional use of geospatial language. One interesting facet of the map is the use of "Natural Breaks" to organize data into groups and to represent those groups with color.  In this way, the number of states in each group are not the same, but importantly, each color represents a cohort of states with similar comparable scores.  With this map, the innovators pop out in dark red while the laggards wash out into a pale white.
 
