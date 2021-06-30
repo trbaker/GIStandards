@@ -73,7 +73,9 @@ Examining comparable scores by state on a map does not seem to suggest a regiona
 <br />
 If [map above doesn't display, click here](https://education.maps.arcgis.com/home/webmap/viewer.html?webmap=3356153e4cc542f7acb8d7bcedc8cce9)
 
- Further examing the geospatial language in standards through the lens of Rogers' 2003 Diffusion of Innovation, we can see the following break down of raw scores.
+ Further examing the geospatial language in standards through the lens of Rogers' 2003 Diffusion of Innovation Curve we can see the following break down of raw scores.
+ <img src="plots/rogers.png" align="Rogers Diffusion of Innovation"><br />
+ 
  - Innovators (top 2.5% = 1 state): MI
  - Early Adopters (13.5% = 7): SC, MN, TX, AR, AL, NJ, TN
  - Early majority (34% = 17): VT, KS, KY, WY, OH, NV, CO, ID, WV, MD, CA, NY, SD, CT, HI, FL, MA
