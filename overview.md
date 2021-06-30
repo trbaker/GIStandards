@@ -70,16 +70,16 @@ For educators who must align their activities and lessons to state standards, it
 Examining comparable scores by state on a map does not seem to suggest a regional cluster of states with exceptional use of geospatial language. One interesting facet of the map is the use of "Natural Breaks" to organize data into groups and to represent those groups with color.  In this way, the number of states in each group are not the same, but importantly, each color represents a cohort of states with similar comparable scores.  With this map, the innovators pop out in dark red while the laggards wash out into a pale white.
 
 <style>.embed-container {position: relative; padding-bottom: 80%; height: 0; max-width: 100%;} .embed-container iframe, .embed-container object, .embed-container iframe{position: absolute; top: 0; left: 0; width: 100%; height: 100%;} small{position: absolute; z-index: 40; bottom: 0; margin-bottom: -15px;}</style><div class="embed-container"><small><a href="//education.maps.arcgis.com/apps/Embed/index.html?webmap=3356153e4cc542f7acb8d7bcedc8cce9&extent=-180,1.4428,59.1833,71.3688&zoom=true&scale=false&legend=true&disable_scroll=true&theme=light" style="color:#0000FF;text-align:left" target="_blank">View larger map</a></small><br><iframe width="500" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="GIS in K12 Standards (GIStandards)" src="//education.maps.arcgis.com/apps/Embed/index.html?webmap=3356153e4cc542f7acb8d7bcedc8cce9&extent=-180,1.4428,59.1833,71.3688&zoom=true&previewImage=false&scale=false&legend=true&disable_scroll=true&theme=light"></iframe></div>
+<br />
 If [map above doesn't display, click here](https://education.maps.arcgis.com/home/webmap/viewer.html?webmap=3356153e4cc542f7acb8d7bcedc8cce9)
 
-<br />
- Further examing the geospatial language in standards through the lens of Rogers' Diffusion of Innovation, we can see the following break down by state comparable scores.
- 
+ Further examing the geospatial language in standards through the lens of Rogers' 2003 Diffusion of Innovation, we can see the following break down of raw scores.
  - Innovators (top 2.5% = 1 state):
  - Early Adopters (13.5% = 7)
  - Early majority (34% = 17)
  - Late majority (34% = 17)
  - Laggards (16% = 9 )
+ 
  
 ### CONCLUSIONS
 Aside from state curriculum standards, in the US, national subject area standards (along with cross-cutting standards like ISTE's technology standards) and district or local standards may all inform classroom activities to varying levels.  Assessments tied to standards, administrative oversight, and external factors (e.g. COVID-19) also all play roles on the impact of standards in classroom activites. Regardless, this research should help inform curriculum developers, educators, and researchers about the condition of geospatial language used in state standards - in part providing a way to view and measure the importance of geospatial tools in curriculum and society as gauged by the larger K-12 community.
@@ -87,11 +87,14 @@ Aside from state curriculum standards, in the US, national subject area standard
 
 ### BIBLIOGRAPHY
 
+Baker, T.R. (2018). Geospatial technologies in mainstream classrooms: A brief examination of pedagogical diffusion. In E. Langran & J. Borup (Eds.), Proceedings of Society for Information Technology & Teacher Education International Conference (pp. 1287-1295). Washington, D.C., United States: Association for the Advancement of Computing in Education (AACE). Retrieved October 25, 2019 from https://www.learntechlib.org/primary/p/182694/.
+
 Jo, I., Duke, B. & Baker, T.R. (2019). Advance Your Geospatial Technology--Empowered by Your Curriculum Standards. NCSS 2019 Conference: Austin, TX. http://bit.ly/geospatialwords 
 
 Milson, A.J. & Roberts, J.A. (2008). The status of geospatial technologies in state geography standards in the United States. In Milson, A.J. & Alibrandi, M., *Digital geography: Geospatial technologies in the social studies classroom* (pp. 39-59). Charlotte, NC: Information Age Publishing.
 
-US Census. (2021). Cartographic Boundary Files - KML.  https://www.census.gov/geographies/mapping-files/time-series/geo/kml-cartographic-boundary-files.html
+Rogers, E. M. (2003). Diffusion of innovations (5th edition). New York: Free Press.
+
 
 
 
