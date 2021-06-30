@@ -74,11 +74,13 @@ Examining comparable scores by state on a map does not seem to suggest a regiona
 If [map above doesn't display, click here](https://education.maps.arcgis.com/home/webmap/viewer.html?webmap=3356153e4cc542f7acb8d7bcedc8cce9)
 
  Further examing the geospatial language in standards through the lens of Rogers' 2003 Diffusion of Innovation, we can see the following break down of raw scores.
- - Innovators (top 2.5% = 1 state):
- - Early Adopters (13.5% = 7)
- - Early majority (34% = 17)
+ - Innovators (top 2.5% = 1 state): MI
+ - Early Adopters (13.5% = 7): SC, MN, TX, AR, AL, NJ, TN
+ - Early majority (34% = 17): VT, KS, KY, WY, OH, NV, CO, ID, WV, MD, CA, NY, SD, CT, HI, FL, MA
  - Late majority (34% = 17)
  - Laggards (16% = 9 )
+ 
+ While the use of raw scores must be carefully considered, this approach is helpful for identifying some clear standouts - such as the state of Michigan and their abundant use of geospatial language through their CTE standards.  Similarly, states like Minnesota, Arkansas, and Alabama are clear stand-outs, at least in certain subject areas, with their use of geosatpail language.  For more on each of these states, [browse the project's homepage for information](https://trbaker.github.io/GIStandards).
  
  
 ### CONCLUSIONS
