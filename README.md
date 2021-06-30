@@ -1,8 +1,6 @@
 # Geospatial keywords in US K12 curriculum standards
 #### A machine analysis of geospatial language in US K-12 state curriculum standards
 
-### WARNING: THESE DATA ARE NOT YET VALIDATED. WHEN THIS MESSAGE IS GONE, THE DATA MAY BE USED.
-
 #### Abstract
 This research contains the results of ongoing machine analyses of over 3,500 US curriculum standards or similar curriculum references.  All state core standards (English, math, science, and social studies) and Career and Technical Education (CTE) curriculum references were collected.  A python-based program reads each standards document in search of a [defined geospatial keyword](appendix_keywords.md).  Counts were [summed and normalized](appendix_search.md) based on total words in the collection of documents for that state and subject area. A number of [generous, external reviewers](appendix_ack.md) have been enlisted to help monitor the project's findings.
 
