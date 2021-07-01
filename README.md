@@ -8,7 +8,7 @@ This research contains the results of ongoing machine analyses of over 3,500 US 
 
 #### Snapshot
 - Total count of the six project [keywords](appendix_keywords.md) found in standards: 1127
-- Top five states by total keywords: MI, SC, MN, AL, AR
+- Top five states by total keywords: MI, MN, SC, AL, AR
 - Total standards documents scanned: 3,532
 - States with geospatial keywords in:
   - ELA: 33
