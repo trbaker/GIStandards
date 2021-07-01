@@ -7,8 +7,8 @@ THIS DOCUMENT IS NOW IN INITIAL PUBLIC DRAFT.  SOME VALUES, FIGURES, AND TEXT MA
 This research contains the results of ongoing machine analyses of over 3,500 US curriculum standards or similar curriculum references.  All state core standards (English, math, science, and social studies) and Career and Technical Education (CTE) curriculum references were collected.  A python-based program reads each standards document in search of a [defined geospatial keyword](appendix_keywords.md).  Counts were [summed and normalized](appendix_search.md) based on total words in the collection of documents for that state and subject area. A number of [generous, external reviewers](appendix_ack.md) have been enlisted to help monitor the project's findings.
 
 #### Snapshot
-- Total count of the six project [keywords](appendix_keywords.md) found in standards: 1127
-- Top five states by total keywords: MI, SC, MN, AL, AR
+- Total count of the six project [keywords](appendix_keywords.md) found in standards: 1108
+- Top five states by total keywords: MI, MN, SC, AL, AR
 - Total standards documents scanned: 3,532
 - States with geospatial keywords in:
   - ELA: 33
