@@ -45,7 +45,7 @@ The keyword "spatial" accounts for about 50% of all keywords found.  While "spat
 
 <a href="plots/fig2.png"><img align="center" border=0 src="plots/fig2.png" width="500"></a>
 
-Figure 2 shows that "spatial" is the only geospatial keyword in most English (ELA) and mathematics (MA) standards.  In science, the Next Generation Science Standards (NGSS) refer to "spatial and temporal".  The shift from figure 1 to figure 2 in science indicates in large part, the number of states using the NGSS. The change in social studies was the real surprise, moving from 46 to 31 states - or about a 35% decline in states when "spatial" was removed from the geospatial keyword list.  Califnornia is one such example where "spatial thinking", "spatial contexts", and "spatial distribution" are present in the social studies standards but there is no geospatial language or technology in those standards.  It's a cautionary tale.
+Figure 2 shows that "spatial" is the only geospatial keyword in English (ELA) and mathematics (MA) standards.  In science, the Next Generation Science Standards (NGSS) refer to "spatial and temporal".  The shift from figure 1 to figure 2 in science indicates in large part, the number of states using the NGSS. The change in social studies was the real surprise, moving from 46 to 31 states - or about a 35% decline in states when "spatial" was removed from the geospatial keyword list.  Califnornia is one such example where "spatial thinking", "spatial contexts", and "spatial distribution" are present in the social studies standards but there is no geospatial language or technology in those standards.  It's a cautionary tale.
 
 When plotting data on a histogram, it is apparent the total raw count of geospatial keywords by state is non-normal, producing a histogram that is right-skewed. Due to the skewedness of the distribution, the median rather than the mean is provided.
 
@@ -54,7 +54,9 @@ When plotting data on a histogram, it is apparent the total raw count of geospat
 In an attempt to normalize the raw counts of geospatial keywords, keyword counts are divided by total words in those standards (called a comparable score). 
 
 Consider the common case where state A uses 40,000 words in its K-12 science standards, but state B uses 400,000 words.  The machine counts the occurrence of each keyword in the same way.  By normalizing the machine’s count (dividing by total words in the standards), we might improve the values for state-by-state comparison purposes.  
+
 <a href="plots/fig4.png"><img alt="Figure 4" align="center" border=0 src="plots/fig4.png" width="500"></a>
+
 The downside to this effort is that the organization of standards (especially in CTE) can force the denominator in this simple equation to swing wildly: Ultimately giving small standards (or impossible to find standards) an unfair advantage.  It is therefore the researcher's conclusion that the reader really should consider both scores as a way of mitigating extremes. This is not a perfect solution, but a better one.
 
 <a href="plots/fig5.png" border=0><img alt="Figure 5" align="right" src="plots/fig5.png"></a> 
@@ -70,23 +72,24 @@ For educators who must align their activities and lessons to state standards, it
 Examining comparable scores by state on a map does not seem to suggest a regional cluster of states with exceptional use of geospatial language. One interesting facet of the map is the use of "Natural Breaks" to organize data into groups and to represent those groups with color.  In this way, the number of states in each group are not the same, but importantly, each color represents a cohort of states with similar comparable scores.  With this map, the innovators pop out in dark red while the laggards wash out into a pale white.
 
 <style>.embed-container {position: relative; padding-bottom: 80%; height: 0; max-width: 100%;} .embed-container iframe, .embed-container object, .embed-container iframe{position: absolute; top: 0; left: 0; width: 100%; height: 100%;} small{position: absolute; z-index: 40; bottom: 0; margin-bottom: -15px;}</style><div class="embed-container"><small><a href="//education.maps.arcgis.com/apps/Embed/index.html?webmap=3356153e4cc542f7acb8d7bcedc8cce9&extent=-180,1.4428,59.1833,71.3688&zoom=true&scale=false&legend=true&disable_scroll=true&theme=light" style="color:#0000FF;text-align:left" target="_blank">View larger map</a></small><br><iframe width="500" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="GIS in K12 Standards (GIStandards)" src="//education.maps.arcgis.com/apps/Embed/index.html?webmap=3356153e4cc542f7acb8d7bcedc8cce9&extent=-180,1.4428,59.1833,71.3688&zoom=true&previewImage=false&scale=false&legend=true&disable_scroll=true&theme=light"></iframe></div>
+
 <br />
 If [map above doesn't display, click here](https://education.maps.arcgis.com/home/webmap/viewer.html?webmap=3356153e4cc542f7acb8d7bcedc8cce9)
 
  Further examing the geospatial language in standards through the lens of Rogers' 2003 Diffusion of Innovation Curve we can see the following break down of raw scores.
- <img src="plots/rogers.png" align="Rogers Diffusion of Innovation"><br />
+ <img src="plots/rogers.png" alt="Rogers Diffusion of Innovation" align="center"><br />
  
  - Innovators (top 2.5% = 1 state): MI
- - Early Adopters (13.5% = 7): SC, MN, TX, AR, AL, NJ, TN
- - Early majority (34% = 17): VT, KS, KY, WY, OH, NV, CO, ID, WV, MD, CA, NY, SD, CT, HI, FL, MA
+ - Early Adopters (13.5% = 7): SC, MN, AL, AR, TX, TN, NJ
+ - Early majority (34% = 17): VT, KS, OH, KY, WY, CO, ID, MD, CA, NY, WV, SD, CT, HI, NV, NH, MA
  - Late majority (34% = 17)
  - Laggards (16% = 9 )
  
- While the use of raw scores must be carefully considered, this approach is helpful for identifying some clear standouts - such as the state of Michigan and their abundant use of geospatial language through their CTE standards.  Similarly, states like Minnesota, Arkansas, and Alabama are clear stand-outs, at least in certain subject areas, with their use of geosatpail language.  For more on each of these states, [browse the project's homepage for information](https://trbaker.github.io/GIStandards).
+ While the use of raw scores must be carefully considered, this approach is helpful for identifying some clear standouts - such as the state of Michigan and their abundant use of geospatial language through their CTE standards.  Similarly, states like Minnesota, Arkansas, and Alabama are clear stand-outs, at least in certain subject areas, with their use of geospatial language.  For more on each of these states, [browse the project's homepage for information](https://trbaker.github.io/GIStandards).
  
  
 ### CONCLUSIONS
-Aside from state curriculum standards, in the US, national subject area standards (along with cross-cutting standards like ISTE's technology standards) and district or local standards may all inform classroom activities to varying levels.  Assessments tied to standards, administrative oversight, and external factors (e.g. COVID-19) also all play roles on the impact of standards in classroom activities. Regardless, this research should help inform curriculum developers, educators, and researchers about the condition of geospatial language used in state standards - in part providing a way to view and measure the importance of geospatial tools in curriculum and society as gauged by the larger K-12 community.
+Aside from state curriculum standards, in the US, national subject area standards (along with cross-cutting standards like ISTE's technology standards) and district or local standards may all inform classroom activities to varying levels.  Assessments tied to standards, administrative oversight, and external factors  all play roles on the impact of standards in classroom activities. Regardless, this research should help inform curriculum developers, educators, and researchers about the condition of geospatial language used in state standards - in part providing a way to view and measure the importance of geospatial tools in curriculum and society as gauged by the larger K-12 community.
 
 
 ### BIBLIOGRAPHY
