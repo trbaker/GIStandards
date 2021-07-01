@@ -1,10 +1,9 @@
 # Overview
 
 ### BACKGROUND
-Modern K-12 curriculum standards guide the activities of districts and classrooms across the United States - to varying degrees.  For better or worse, curriculum standards, frameworks, and benchmarks are the closest documentation we have to what *should* happen in a classroom at subject and grade level.  While some previous research has been conducted (Milsen & Roberts, 2008; Jo, Duke, & Baker, 2019), the work was not exhaustive and is now of questionable use due to its age.
+K-12 state curriculum standards guide the activities of districts and classrooms across the United States - to varying degrees.  For better or worse, curriculum standards, frameworks, and benchmarks are the closest documentation we have to what *should* happen in a classroom at subject and grade level.  While some previous research has been conducted (Milsen & Roberts, 2008; Jo, Duke, & Baker, 2019), the work was not exhaustive and is now of questionable use due to its age.  The central question of interest is, to what extent does geospatial language exist in the U.S. state curriculum for the four core academic areas and CTE?
 
-This research uses iterative machine analyses to search for, record, and analyze the presence of select geospatial keywords in US K12 curriculum standards, frameworks,
-and programs of study. The state curriculum standards in English language arts (ELA), mathematics (MA), science (SC), social studies (SS), and Career Technical Education (CTE) as defined by each state, are accessed in their most recent version, decrypted, and saved to an archive prior to the machine analyses.
+This research uses iterative machine analyses to search for, record, and analyze the presence of select geospatial keywords in US K12 curriculum standards, frameworks,and programs of study. The state curriculum standards in English language arts (ELA), mathematics (MA), science (SC), social studies (SS), and Career Technical Education (CTE) as defined by each state, are accessed in their most recent version, decrypted, and saved to an archive prior to the machine analyses.
 
 A modern, high-level programming language, Python 3 was used to search the 3,500+ standards documents included in the study. The library PyPDF2 was used for reading documents. MySQL database was used to hold the retrieved data and samples. Python was also used to generate Markdown and HTML web pages based on content logged to the database. Python libraries Matplotlib and Numpy are used to generate the charts and graphcs. The technical architecture used in this project is flexible, allowing for standards documents to be added or removed.  With the click of a few buttons all standards documents can be rescanned, committed to the database, analyzed, and published.  As multiple states update one or more standards documents annually, this capacity to completely recreate the analyses and reports is critical.  The algorithms and code are also flexible in that keywords may be added or removed.  Even geographical entities (e.g. US territories) could relatively easily added to the reporting.
 
@@ -12,15 +11,16 @@ A modern, high-level programming language, Python 3 was used to search the 3,500
 For this study, over 3,500 standards documents where obtained from states' departments of education.  Documents were either downloaded in or converted to the portable document format (PDF) standard. Documents were both searched for keywords and total words were counted. Word counts look for runs of letters, separated by a space. This generally works well, although tables can be problematic. Extensive footers throughout a document can skew the practical total word count. Finally, the identifiers used in standards (e.g. C.1.234f) can be counted as one or more words, depending on how the indicator string is written.  Total word count is important as it becomes the denominator in determing a state's comparable score.
 
 Documents archived include:
-- Core, Content, or Performance tandards
+- Core, content, or performance standards
 - Frameworks
 - Course or programs of study (CTE)
 - Assessment blueprints (CTE)
 
 Documents not included:
 - Progressions
+- Crosswalks
 - Introductions (unless a part of an above document)
-- “placemat” standards (unless no other standards documents were found)
+- Placemat standards (unless no other standards documents were found)
 
 The majority of documents used in CTE are course or program of study descriptions, while the core academic disciplines use content standards. By and large, social studies standards vary more greatly (in content and form) from state to state than the other three academic areas.
 
@@ -30,18 +30,18 @@ For purposes of reproducibility, the MacIntosh worflow for PDF conversion: 1. Ad
 
 
 ### FINDINGS
-Fifty states' (and one district's) findings are generated and posted on this site, https://trbaker.github.com/GIStandards  These state reports each contain:
+Fifty states' (and one district's) findings were generated and posted on this site, https://trbaker.github.com/GIStandards  These state reports each contain:
 -	Total geospatial keywords found in five standards areas
 -	A “comparable score” (basically the total geospatial keywords divided by all words in the standards)
 -	A count of geospatial keywords (and comparable scores) by subject area
 -	Link to the digital archive of the machine-readable standards
 -	A reference to the document, page, and character position where keywords were found.  The keyword is also presented with a fixed number of words before and after it to provide context.
 
-Each of five subject areas uses the selected geospatial keywords in multiple states – ranging from approximately two dozen states with geospatial language in science standards to nearly four dozen states with geospatial language in the social studies standards.  Geospatial keywords were surprisingly robust in both math and English (ELA) although the vast majority can be attributed to the use of the word, “spatial”.
+Each of five subject areas uses the selected geospatial keywords in multiple states – ranging from approximately two dozen states with geospatial language in science standards to nearly four dozen states with geospatial language in the social studies standards.  Geospatial keywords were found in both math and English (ELA) although the vast majority can be attributed to the use of the word, “spatial”.
 
 <a href="plots/fig1.png"><img align="center" border=0 src="plots/fig1.png" width="500"></a>
 
-The keyword "spatial" accounts for about 50% of all keywords found.  While "spatial" is a general term, often used interchangeably with locational or geographical, it alone does not rise to the level of specificity of "geospatial", "GIS", or even "geographic analysis".  Use in various standards, "spatial" is often used with "temporal" (especially in science) to underscore the relevance of time and space in data.  For these reasons, it's worth reconsidering figure 1 with "spatial" removed from findings.
+The keyword "spatial" accounts for about 50% of all keywords found.  While "spatial" is a general term, often used interchangeably with locational or geographical, it alone does not rise to the level of specificity of "geospatial", "GIS", or even "geographic analysis".  Used in various standards, "spatial" is often used with "temporal" (especially in science) to underscore the relevance of time and space in data.  For these reasons, it's worth reconsidering figure 1 with "spatial" removed from findings.
 
 <a href="plots/fig2.png"><img align="center" border=0 src="plots/fig2.png" width="500"></a>
 
