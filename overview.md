@@ -26,7 +26,7 @@ Most documents used in CTE are course or program of study descriptions, while th
 
 Standards documents were either downloaded in a PDF (format) or converted to PDF. There were cases where PDFs needed to be encoded without binary objects (like images), allowing for the PDF to be readable by the machine. These PDFs are included in the file archive. Most of these updated PDFs are not easy for humans to read but are far more machine readable than the originals. 
 
-For purposes of reproducibility, the MacIntosh workflow for PDF conversion: 1. Adobe Acrobat > File: Export to: Rich Text Format 2. TextEdit > Print : PDF : Save as PDF.
+For purposes of reproducibility, the MacIntosh workflow for PDF conversion: 1. Adobe Acrobat > File: Export to: Rich Text Format 2. TextEdit > Print: PDF : Save as PDF.
 
 
 ### FINDINGS
