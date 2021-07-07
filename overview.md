@@ -53,7 +53,7 @@ When plotting data on a histogram, it is apparent the total raw count of geospat
 
 In an attempt to normalize the raw counts of geospatial keywords, keyword counts are divided by total words in those standards (called a comparable score). 
 
-Consider the common case where state A uses 40,000 words in its K-12 science standards, but state B uses 400,000 words.  The machine counts the occurrence of each keyword in the same way.  By normalizing the machine’s count (dividing by total words in the standards), we might improve the values for state-by-state comparison purposes.  
+Consider the case where state A uses 40,000 words in its K-12 science standards and state B uses 400,000 words.  The machine counts the occurrence of each geospatial keyword in the same way.  By normalizing the machine’s count (dividing by total words in the standards), we might improve the values for state-by-state comparison purposes.  
 
 <a href="plots/fig4.png"><img alt="Figure 4" align="center" border=0 src="plots/fig4.png" width="500"></a>
 
