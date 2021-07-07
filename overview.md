@@ -32,8 +32,8 @@ For purposes of reproducibility, the MacIntosh workflow for PDF conversion: 1. A
 ### FINDINGS
 Fifty states' (and one district's) findings were generated and posted on this site, https://trbaker.github.com/GIStandards  These state reports each contain:
 -	Total geospatial keywords found in five standards areas
--	A “comparable score” (basically the total geospatial keywords divided by all words in the standards)
--	A count of geospatial keywords (and comparable scores) by subject area
+-	A “comparable score” (basically the total geospatial keywords divided by all words in the source standards)
+-	A count of geospatial keywords (and comparable scores) by subject areas
 -	Link to the digital archive of the machine-readable standards
 -	A reference to the document, page, and character position where keywords were found.  The keyword is also presented with a fixed number of words before and after it to provide context.
 
