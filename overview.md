@@ -74,22 +74,22 @@ Examining comparable scores by state on a map does not seem to suggest a regiona
 <style>.embed-container {position: relative; padding-bottom: 80%; height: 0; max-width: 100%;} .embed-container iframe, .embed-container object, .embed-container iframe{position: absolute; top: 0; left: 0; width: 100%; height: 100%;} small{position: absolute; z-index: 40; bottom: 0; margin-bottom: -15px;}</style><div class="embed-container"><small><a href="//education.maps.arcgis.com/apps/Embed/index.html?webmap=3356153e4cc542f7acb8d7bcedc8cce9&extent=-180,1.4428,59.1833,71.3688&zoom=true&scale=false&legend=true&disable_scroll=true&theme=light" style="color:#0000FF;text-align:left" target="_blank">View larger map</a></small><br><iframe width="500" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="GIS in K12 Standards (GIStandards)" src="//education.maps.arcgis.com/apps/Embed/index.html?webmap=3356153e4cc542f7acb8d7bcedc8cce9&extent=-180,1.4428,59.1833,71.3688&zoom=true&previewImage=false&scale=false&legend=true&disable_scroll=true&theme=light"></iframe></div>
 
 <br />
-If [map above doesn't display, click here](https://education.maps.arcgis.com/home/webmap/viewer.html?webmap=3356153e4cc542f7acb8d7bcedc8cce9)
+If the [map above doesn't display, click here](https://education.maps.arcgis.com/home/webmap/viewer.html?webmap=3356153e4cc542f7acb8d7bcedc8cce9)
 
- Further examing the geospatial language in standards through the lens of Rogers' 2003 Diffusion of Innovation Curve we can see the following break down of raw scores.
- <img src="plots/rogers.png" alt="Rogers Diffusion of Innovation" align="center"><br />
+ Further examing the geospatial language in standards through the lens of Rogers' 2003 Diffusion of Innovation (see Baker, 2018), we can see the following break down of raw scores.
+ <img align="right" src="plots/rogers.png" alt="Rogers Diffusion of Innovation" align="center"><br />
  
  - Innovators (top 2.5% = 1 state): MI
- - Early Adopters (13.5% = 7): SC, MN, AL, AR, TX, TN, NJ
+ - Early Adopters (13.5% = 7): MN, AL, SC, AR, TX, TN, NJ
  - Early majority (34% = 17): VT, KS, OH, KY, WY, CO, ID, MD, CA, NY, WV, SD, CT, HI, NV, NH, MA
  - Late majority (34% = 17)
  - Laggards (16% = 9 )
  
- While the use of raw scores must be carefully considered, this approach is helpful for identifying some clear standouts - such as the state of Michigan and their abundant use of geospatial language through their CTE standards.  Similarly, states like Minnesota, Arkansas, and Alabama are clear stand-outs, at least in certain subject areas, with their use of geospatial language.  For more on each of these states, [browse the project's homepage for information](https://trbaker.github.io/GIStandards).
+While the use of raw scores must be carefully considered, this approach is helpful for identifying some clear standouts - such as the state of Michigan and their abundant use of geospatial language through their CTE standards.  Similarly, states like Minnesota, Arkansas, and Alabama are clear stand-outs, at least in certain subject areas.  For more on each of these states, [browse the project's homepage for information](https://trbaker.github.io/GIStandards).
  
  
 ### CONCLUSIONS
-Aside from state curriculum standards, in the US, national subject area standards (along with cross-cutting standards like ISTE's technology standards) and district or local standards may all inform classroom activities to varying levels.  Assessments tied to standards, administrative oversight, and external factors  all play roles on the impact of standards in classroom activities. Regardless, this research should help inform curriculum developers, educators, and researchers about the condition of geospatial language used in state standards - in part providing a way to view and measure the importance of geospatial tools in curriculum and society as gauged by the larger K-12 community.
+Aside from state curriculum standards, in the US, national subject area standards (along with cross-cutting standards like ISTE's technology standards) and district or local standards may all inform classroom activities to varying levels.  Assessments tied to standards, administrative oversight, and external factors  all play roles on the impact of standards in classroom activities. Regardless, this research should help inform curriculum developers, educators, and researchers about the condition of geospatial language used in state standards - in part providing a way to view and measure the importance of geospatial language and concepts in curriculum as defined by the K-12 community.
 
 
 ### BIBLIOGRAPHY
