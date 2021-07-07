@@ -59,7 +59,7 @@ Consider the case where state A uses 40,000 words in its K-12 science standards 
 
 The downside to this effort is that the organization of standards (especially in CTE) can force the denominator in this simple equation to swing wildly: Ultimately giving small standards (or impossible to find standards) an unfair advantage.  It is therefore the researcher's conclusion that the reader really should consider both scores as a way of mitigating extremes. This is not a perfect solution, but a better one.
 
-<table width=600><tr><td>
+<table width='100%'><tr><td>
 <a href="plots/fig5.png" border=0><img alt="Figure 5" align="right" src="plots/fig5.png"></a> 
  </td><td>
 <a href="plots/fig6.png" border=0><img alt="Figure 6" align="left" src="plots/fig6.png"></a> 
