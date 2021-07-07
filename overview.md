@@ -37,7 +37,7 @@ Fifty states' (and one district's) findings were generated and posted on this si
 -	Link to the digital archive of the machine-readable standards
 -	A reference to the document, page, and character position where keywords were found.  The keyword is also presented with a fixed number of words before and after it to provide context.
 
-Each of five subject areas uses the selected geospatial keywords in multiple states – ranging from approximately two dozen states with geospatial language in science standards to nearly four dozen states with geospatial language in the social studies standards.  Geospatial keywords were found in both math and English (ELA) although the vast majority can be attributed to the use of the word, “spatial”.
+Each of five subject areas uses the selected geospatial keywords in multiple states – ranging from approximately two dozen states with geospatial language in science standards to nearly four dozen states with geospatial language in the social studies standards.  Geospatial keywords were found in both math and English (ELA) although these can be attributed to the use of the word, “spatial”.
 
 <a href="plots/fig1.png"><img align="center" border=0 src="plots/fig1.png" width="500"></a>
 
