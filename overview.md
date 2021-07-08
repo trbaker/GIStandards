@@ -81,8 +81,8 @@ If the [map above doesn't display, click here](https://education.maps.arcgis.com
  <img align="right" src="plots/rogers.png" alt="Rogers Diffusion of Innovation" align="center"><br />
  
  - Innovators (top 2.5% = 1 state): MI
- - Early Adopters (13.5% = 7): MN, AL, SC, AR, TX, TN, NJ
- - Early majority (34% = 17): VT, KS, OH, KY, WY, CO, ID, MD, CA, NY, WV, SD, CT, HI, NV, NH, MA
+ - Early Adopters (13.5% = 7): MN, SC, AL, AR, TX, TN, NJ
+ - Early majority (34% = 17): VT, KS, KY, OH, WY, CO, ID, MD, NE, CA, NY, WV, CT, SD, HI, NV, FL, NH
  - Late majority (34% = 17)
  - Laggards (16% = 9 )
  
