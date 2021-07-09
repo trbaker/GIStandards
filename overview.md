@@ -76,7 +76,6 @@ For educators who must align their activities and lessons to state standards, it
 
 Examining raw scores (counts) by state on a map does not seem to suggest a regional cluster of states with exceptional use of geospatial language. One interesting facet of the map is the use of "Natural Breaks" to organize data into groups and to represent those groups with color.  In this way, the number of states in each group are not the same, but importantly, each color represents a cohort of states with similar comparable scores.  With this map, the innovators pop out in dark red while the laggards wash out into a pale white.
 
-<br />
 <a target="new" href="https://education.maps.arcgis.com/apps/webappviewer/index.html?id=5423bc685da1488ba02f6c4fe527c635"><img align="center" src="maps/map.png">
 <br />
  
