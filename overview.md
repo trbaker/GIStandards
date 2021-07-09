@@ -49,7 +49,7 @@ This figure shows that "spatial" is the only geospatial keyword in English (ELA)
 
 This phenomena can also be examined on scatterplot where one axis the number of times "spatial" occurs in a state's standards where on the other axis, the total number of all other geospatial keywordsis plotted. The scatterplot is useful for identifying states with above average frequency of geospatial language in standards.  The laggards are essentially clumped in the lower left corner.
 
-<a href="plots/fig2.png"><img align="center" border=0 src="plots/fig6.png" width="500"></a>
+<a href="plots/fig6.png"><img align="center" border=0 src="plots/fig6.png" width="500"></a>
 
 When plotting data on a histogram, it is apparent the total raw count of geospatial keywords by state is non-normal, producing a histogram that is right-skewed. Due to the skewedness of the distribution, the median rather than the mean is provided.
 
