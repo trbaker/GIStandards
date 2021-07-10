@@ -105,6 +105,8 @@ Baker, T.R., Duke, B., & Jo, I. (2019). Advance Your Geospatial Technology--Empo
 
 Milson, A.J. & Roberts, J.A. (2008). The status of geospatial technologies in state geography standards in the United States. In Milson, A.J. & Alibrandi, M., *Digital geography: Geospatial technologies in the social studies classroom* (pp. 39-59). Charlotte, NC: Information Age Publishing.
 
+NCES. (2021). Public School Enrollment. https://nces.ed.gov/programs/coe/indicator/cga
+
 Rogers, E. M. (2003). Diffusion of innovations (5th edition). New York: Free Press.
 
 
