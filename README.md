@@ -12,7 +12,7 @@ This research contains the results of ongoing machine analyses of over 3,500 US 
   - ELA: 33
   - Math: 35
   - Science: 28
-  - Social studies: 46
+  - Social studies: 47
   - CTE: 32
 
 #### Citation
