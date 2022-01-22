@@ -1,7 +1,7 @@
 # Geospatial keywords in US K12 curriculum standards
 #### A machine analysis of geospatial language in US K-12 state curriculum standards
 
-#### Abstract
+#### Author
 Thomas R. Baker, trbaker@gmail.com
 
 #### Date published
