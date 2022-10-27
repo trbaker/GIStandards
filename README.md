@@ -72,7 +72,6 @@ DOI: https://doi.org/10.6084/m9.figshare.14863317.v1
 - [South Dakota](SD.html)
 - [Tennessee](TN.html)
 - [Texas](TX.html)
-- [Oregon](OR.html)
 - [Utah](UT.html)
 - [Virginia](VA.html)
 - [Vermont](VT.html)
