@@ -42,7 +42,7 @@ DOI: https://doi.org/10.6084/m9.figshare.14863317.v1
 - [Hawaii](HI.html)
 - [Idaho](ID.html)
 - [Illinois](IL.html)
-- [Indiana](ID.html)
+- [Indiana](IN.html)
 - [Iowa](IA.html)
 - [Kansas](KS.html)
 - [Kentucky](KY.html)
